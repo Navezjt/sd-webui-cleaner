@@ -1,6 +1,26 @@
 # Cleaner for Stable Diffusion WebUI
-This is a WEBUI extension that provides image erasure functionality. It supports both UI and API simultaneously. Powered by [lama](https://github.com/advimman/lama)
 
+
+
+
+<table>
+  <tr>
+    <td align="center" vertical-align="center">
+        <a href="https://novita.ai/?utm_source=github_organization&utm_medium=banner&utm_campaign=sd-webui-cleaner">
+            <img src="https://raw.githubusercontent.com/wiki/novitalabs/sd-webui-cleaner/images/logo2.png" width="120px;" alt="Unsplash" />
+        </a>
+    </td>
+    <td align="center" vertical-align="center">
+      <b>AI image generation API</b>
+      <br />
+        <span text-align: center>Now we have provided the API for remove object.</span>   
+        <a href="https://novita.ai/?utm_source=github_organization&utm_medium=banner&utm_campaign=sd-webui-cleaner">Cleanup API</a>
+    </td>
+  </tr>
+</table>
+
+
+This is a WEBUI extension that provides image erasure functionality. It supports both UI and API simultaneously. Powered by [lama](https://github.com/advimman/lama)
 
 ![example1](https://raw.githubusercontent.com/wiki/novitalabs/sd-webui-cleaner/images/example1.png)
 
@@ -43,7 +63,7 @@ body:
 <br>
 
 ### Used without GPU
-If you don't have a GPU, please set the cleanr_use_cpu parameter to true through the setting page or api.
+If you don't have a GPU, please set the cleaner_use_cpu parameter to true through the setting page or api.
 
 <br>
 
